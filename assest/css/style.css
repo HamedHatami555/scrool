@@ -1,0 +1,24 @@
+body{
+    background-color:black;
+}
+.background{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    background-position: center;
+    background-image: url(../../pic/pngtree-colorful-blossoms.jpg);
+    
+}
+#back{
+    width: 100%;
+    height:100vh;
+   
+    background-position: center;
+    background-size: cover;
+}
+
+#boxText{
+    text-align: center;
+    font-weight:bold;
+    color: aliceblue;
+}
