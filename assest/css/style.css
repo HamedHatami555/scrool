@@ -7,6 +7,8 @@ body{
     background-color: black;
     background-position: center;
     background-image: url(../../pic/pngtree-colorful-blossoms.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 #back{
